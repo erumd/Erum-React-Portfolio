@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Erum-React-Portfolio/static/css/main.b292bb38.chunk.css",
+    "main.js": "/Erum-React-Portfolio/static/js/main.8008f8db.chunk.js",
+    "main.js.map": "/Erum-React-Portfolio/static/js/main.8008f8db.chunk.js.map",
+    "runtime-main.js": "/Erum-React-Portfolio/static/js/runtime-main.cbfe6793.js",
+    "runtime-main.js.map": "/Erum-React-Portfolio/static/js/runtime-main.cbfe6793.js.map",
+    "static/js/2.1acf214c.chunk.js": "/Erum-React-Portfolio/static/js/2.1acf214c.chunk.js",
+    "static/js/2.1acf214c.chunk.js.map": "/Erum-React-Portfolio/static/js/2.1acf214c.chunk.js.map",
+    "static/js/3.721863fe.chunk.js": "/Erum-React-Portfolio/static/js/3.721863fe.chunk.js",
+    "static/js/3.721863fe.chunk.js.map": "/Erum-React-Portfolio/static/js/3.721863fe.chunk.js.map",
+    "index.html": "/Erum-React-Portfolio/index.html",
+    "static/css/main.b292bb38.chunk.css.map": "/Erum-React-Portfolio/static/css/main.b292bb38.chunk.css.map",
+    "static/js/2.1acf214c.chunk.js.LICENSE.txt": "/Erum-React-Portfolio/static/js/2.1acf214c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbfe6793.js",
+    "static/js/2.1acf214c.chunk.js",
+    "static/css/main.b292bb38.chunk.css",
+    "static/js/main.8008f8db.chunk.js"
+  ]
+}
